@@ -1,6 +1,8 @@
 # Build folder
 build
 
+bin
+
 # Compiled class file
 *.class
 
